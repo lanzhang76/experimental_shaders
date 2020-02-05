@@ -1,1 +1,1 @@
-# experimental_shaders
+### course documentation for experimental shaders class
